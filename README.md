@@ -1,6 +1,4 @@
-# frontmain
-
-> ...
+# frontend
 
 ## Build Setup
 
